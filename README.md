@@ -14,7 +14,7 @@ I enjoy building intelligent systems that transform data into meaningful insight
 ## 👨‍💻 About Me
 
 - 🎓 Aspiring **Machine Learning Engineer**
-- 🌱 Currently learning **Deep Learning & MLOps**
+- 🌱 Currently learning **Deep Learning**
 - 💡 Interested in **Data Science, Machine Learning, Artificial Intelligence, and Data Analysis**
 - 💬 Ask me about **Python, Machine Learning, Data Science, Data Analysis, SQL, and Plotly**
 - 👨‍💻 All of my projects are available at **https://github.com/bassam519**
@@ -49,7 +49,7 @@ I enjoy building intelligent systems that transform data into meaningful insight
 
 ---
 
-## 📊 Data Science, Machine Learning & Analytics
+## 📊 Data Science & Analytics
 
 <p align="left">
 <a href="https://pandas.pydata.org/" target="_blank">
@@ -60,12 +60,12 @@ I enjoy building intelligent systems that transform data into meaningful insight
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="45" height="45"/>
 </a>
 
-<a href="https://plotly.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/plotly.svg" width="45" height="45"/>
-</a>
-
 <a href="https://seaborn.pydata.org/" target="_blank">
 <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="45" height="45"/>
+</a>
+
+<a href="https://plotly.com/" target="_blank">
+<img src="https://images.plot.ly/logo/new-branding/plotly-logomark.png" width="45" height="45"/>
 </a>
 
 <a href="https://www.microsoft.com/power-platform/products/power-bi" target="_blank">
@@ -89,19 +89,6 @@ I enjoy building intelligent systems that transform data into meaningful insight
 
 👉 **Repositories:**  
 **https://github.com/bassam519?tab=repositories**
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=bassam519&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bassam519&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=bassam519&theme=tokyonight&hide_border=true"/>
-</p>
 
 ---
 
