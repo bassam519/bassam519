@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bassam</h1>
 <h3 align="center">An aspiring ML Engineer from Egypt, passionate about building intelligent, data-driven systems</h3>
 
-- 🔭 I'm currently deepening my skills in **Machine Learning**
-- 🌱 I'm currently learning **Deep Learning**
 - 👨‍💻 All of my projects are available at [github.com/bassam519](https://github.com/bassam519)
 - 💬 Ask me about **Python, Machine Learning, and Data Analysis**
 - 📫 How to reach me: **bassamomar2005@gmail.com**
@@ -49,5 +47,11 @@
   </a>
   <a href="https://plotly.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/plotly.svg" alt="plotly" width="40" height="40"/>
+  </a>
+  <a href="https://www.microsoft.com/en-us/power-platform/products/power-bi" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/48/power-bi.png" alt="powerbi" width="40" height="40"/>
+  </a>
+  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" alt="excel" width="40" height="40"/>
   </a>
 </p>
