@@ -1,12 +1,8 @@
 <h1 align="center">Hi 👋, I'm Bassam</h1>
-<h3 align="center">An aspiring AI Engineer from Egypt, passionate about building intelligent, data-driven systems</h3>
+<h3 align="center">An aspiring ML Engineer from Egypt, passionate about building intelligent, data-driven systems</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bassam519&label=Profile%20views&color=0e75b6&style=flat" alt="bassam519" />
-</p>
-
-- 🔭 I'm currently deepening my skills in **Machine Learning & AI Engineering**
-- 🌱 I'm currently learning **Deep Learning, MLOps, and Model Deployment**
+- 🔭 I'm currently deepening my skills in **Machine Learning**
+- 🌱 I'm currently learning **Deep Learning**
 - 👨‍💻 All of my projects are available at [github.com/bassam519](https://github.com/bassam519)
 - 💬 Ask me about **Python, Machine Learning, and Data Analysis**
 - 📫 How to reach me: **bassamomar2005@gmail.com**
@@ -52,11 +48,6 @@
     <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
   </a>
   <a href="https://plotly.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/plot_ly/plot_ly-icon.svg" alt="plotly" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/plotly.svg" alt="plotly" width="40" height="40"/>
   </a>
-</p>
-
-<h3 align="left">GitHub Stats:</h3>
-<p align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=bassam519&show_icons=true&theme=default" alt="bassam519" />
 </p>
