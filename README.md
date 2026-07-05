@@ -16,7 +16,7 @@ I enjoy building intelligent systems that transform data into meaningful insight
 - 🎓 Aspiring **Machine Learning Engineer**
 - 🌱 Currently learning **Deep Learning**
 - 💡 Interested in **Data Science, Machine Learning, Artificial Intelligence, and Data Analysis**
-- 💬 Ask me about **Python, Machine Learning, Data Science, Data Analysis, SQL, NumPy, and Pandas**
+- 💬 Ask me about **Python, Machine Learning, Data Science, Data Analysis, SQL, NumPy, Pandas, and Matplotlib**
 - 👨‍💻 All of my projects are available at **https://github.com/bassam519**
 - 📫 Reach me at **bassamomar2005@gmail.com**
 - ⚡ Fun fact: *I enjoy turning raw data into models that actually make decisions.*
@@ -59,6 +59,10 @@ I enjoy building intelligent systems that transform data into meaningful insight
 
 <a href="https://pandas.pydata.org/" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45" height="45"/>
+</a>
+
+<a href="https://matplotlib.org/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="45" height="45"/>
 </a>
 
 <a href="https://scikit-learn.org/" target="_blank">
