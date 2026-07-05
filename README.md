@@ -16,7 +16,7 @@ I enjoy building intelligent systems that transform data into meaningful insight
 - 🎓 Aspiring **Machine Learning Engineer**
 - 🌱 Currently learning **Deep Learning**
 - 💡 Interested in **Data Science, Machine Learning, Artificial Intelligence, and Data Analysis**
-- 💬 Ask me about **Python, Machine Learning, Data Science, Data Analysis, SQL, and Plotly**
+- 💬 Ask me about **Python, Machine Learning, Data Science, Data Analysis, SQL, NumPy, and Pandas**
 - 👨‍💻 All of my projects are available at **https://github.com/bassam519**
 - 📫 Reach me at **bassamomar2005@gmail.com**
 - ⚡ Fun fact: *I enjoy turning raw data into models that actually make decisions.*
@@ -49,9 +49,14 @@ I enjoy building intelligent systems that transform data into meaningful insight
 
 ---
 
-## 📊 Data Science & Analytics
+## 📊 Data Science & Analytics Tools
 
 <p align="left">
+
+<a href="https://numpy.org/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45" height="45"/>
+</a>
+
 <a href="https://pandas.pydata.org/" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45" height="45"/>
 </a>
@@ -75,6 +80,7 @@ I enjoy building intelligent systems that transform data into meaningful insight
 <a href="https://www.microsoft.com/microsoft-365/excel" target="_blank">
 <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" width="45" height="45"/>
 </a>
+
 </p>
 
 ---
@@ -88,7 +94,7 @@ I enjoy building intelligent systems that transform data into meaningful insight
 - 🌾 Smart Agriculture Platform
 
 👉 **Repositories:**  
-**https://github.com/bassam519?tab=repositories**
+https://github.com/bassam519?tab=repositories
 
 ---
 
