@@ -162,20 +162,6 @@ I enjoy building intelligent systems that transform data into meaningful insight
 
 </p>
 
-### Computer Vision Topics
-
-- 🖼️ Image Classification
-- 🔲 Object Detection
-- 📦 Bounding Boxes
-- 🎯 IoU & mAP
-- 🔗 Non-Maximum Suppression (NMS)
-- ⚓ Anchor Boxes
-- 🧠 CNNs
-- 🚀 R-CNN Family
-- 🎯 YOLO
-
----
-
 ## 🚀 Featured Projects
 
 - 🤖 Machine Learning Projects
